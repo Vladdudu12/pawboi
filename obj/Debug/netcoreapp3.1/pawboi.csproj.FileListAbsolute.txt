@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\pawboi\bin\Debug\netcoreapp3.1\pawboi.exe
+C:\Users\Vlad\source\repos\pawboi\bin\Debug\netcoreapp3.1\pawboi.deps.json
+C:\Users\Vlad\source\repos\pawboi\bin\Debug\netcoreapp3.1\pawboi.runtimeconfig.json
+C:\Users\Vlad\source\repos\pawboi\bin\Debug\netcoreapp3.1\pawboi.runtimeconfig.dev.json
+C:\Users\Vlad\source\repos\pawboi\bin\Debug\netcoreapp3.1\pawboi.dll
+C:\Users\Vlad\source\repos\pawboi\bin\Debug\netcoreapp3.1\pawboi.pdb
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.Form1.resources
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.dll
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.pdb
+C:\Users\Vlad\source\repos\pawboi\obj\Debug\netcoreapp3.1\pawboi.genruntimeconfig.cache
