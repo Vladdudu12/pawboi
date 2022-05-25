@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vlad\\source\\repos\\pawboi\\pawboi.csproj": {}
+    "C:\\Users\\vladd\\Desktop\\paw_repo\\pawboi\\pawboi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vlad\\source\\repos\\pawboi\\pawboi.csproj": {
+    "C:\\Users\\vladd\\Desktop\\paw_repo\\pawboi\\pawboi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vlad\\source\\repos\\pawboi\\pawboi.csproj",
+        "projectUniqueName": "C:\\Users\\vladd\\Desktop\\paw_repo\\pawboi\\pawboi.csproj",
         "projectName": "pawboi",
-        "projectPath": "C:\\Users\\Vlad\\source\\repos\\pawboi\\pawboi.csproj",
-        "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vlad\\source\\repos\\pawboi\\obj\\",
+        "projectPath": "C:\\Users\\vladd\\Desktop\\paw_repo\\pawboi\\pawboi.csproj",
+        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladd\\Desktop\\paw_repo\\pawboi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
